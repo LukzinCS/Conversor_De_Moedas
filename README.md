@@ -10,8 +10,5 @@ Permite inserir um valor, escolher a moeda de origem e destino, e obter o result
 - CSS
 - JavaScript
 
-## Como usar
-Abra o arquivo `index.html` no navegador.
-
 ## Observação
 Projeto desenvolvido para fins de estudo.
